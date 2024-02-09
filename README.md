@@ -1,3 +1,4 @@
 # LearningGithub
-This is my first GitHub Repository.<br>
+This is my first GitHub Repository.
+<br>
 Author-Amardip Yadv
